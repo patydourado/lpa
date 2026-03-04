@@ -1,8 +1,10 @@
 programa {
   funcao inicio() {
     inteiro numA, numB, aux
+
     numA = 2
     numB=10
+
     aux = numA
     numA = numB
     numB = aux
