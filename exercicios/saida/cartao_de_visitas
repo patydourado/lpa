@@ -1,0 +1,12 @@
+programa
+{
+	funcao inicio()
+	{
+		escreva("******************************\n")
+		escreva("* LÓGICA TECH         *       \n")
+		escreva("******************************\n")
+		escreva("* Desenvolvedor: Nome do Dev *\n")
+		escreva("* Contato: dev@logicatech.com*\n")
+		escreva("******************************\n")
+	}
+}
