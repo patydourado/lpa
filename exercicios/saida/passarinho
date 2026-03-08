@@ -1,0 +1,9 @@
+programa{
+	funcao inicio()
+	{
+		// Observe a quantidade de espaços antes de abrir o parêntese
+		escreva("   (o <) \n")
+		escreva("  (  V ) \n")
+		escreva("   ^  ^  \n")
+	}
+}
