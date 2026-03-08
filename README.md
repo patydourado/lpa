@@ -16,7 +16,7 @@ Para manter a organização, os arquivos estão divididos da seguinte forma:
 
 * `/exemplos`: Códigos-fonte demonstrados em sala de aula.
 * `/exercicios`: Listas de exercícios e enunciados de trabalhos.
-* `/assets`: Imagens e diagramas utilizados na documentação.
+* `/recursos`: Imagens e diagramas utilizados na documentação.
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagem:** [Portugol, Java]
