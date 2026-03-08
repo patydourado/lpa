@@ -1,0 +1,10 @@
+programa{
+	funcao inicio()
+	{
+		// Atenção: espaços fora das aspas não interferem na apresentação no console (saída).
+		escreva("      _  \n")
+		escreva("     |_| \n")
+		escreva("   _ |_| \n")
+		escreva("  |_||_| \n")
+	}
+}
