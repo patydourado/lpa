@@ -9,7 +9,7 @@ public class DifariavelConstante {
 			  
 		saldo = 2000;
 
-		//A linha abaixo gera um erro, pois não é permitido alterar o valor de um valor fixo
+		//A linha abaixo gera um erro, pois não é permitido alterar o conteúdo de um valor fixo
 		TAXA_JUROS = 0.09;
 
 	}
